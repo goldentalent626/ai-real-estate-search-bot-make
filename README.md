@@ -100,8 +100,3 @@ Before importing it, configure your own:
 ## Security
 
 This repository excludes live credentials, bot tokens, webhook identifiers, Make connection IDs, private Airtable IDs, and user data. Never commit the original production blueprint or secret files.
-
-## Author
-
-**Dmytro Shefel** - AI Automation Engineer  
-[LinkedIn](https://www.linkedin.com/in/dmytro-shefel-3858b3361/)
